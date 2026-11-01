@@ -1,9 +1,9 @@
 # Hi, I'm Muhammad Uzair khan
 
-  Computer Science student at Punjab University focused on full-stack web development and applied security.
+  Computer Science student at Punjab University focused on full and Mern stack web development and applied security.
 
 - 🌱 Building and pushing full-stack projects on GitHub
-- 🧩 Focused on C++, JavaScript/TypeScript, and full-stack web development
+- 🧩 Focused on C++, JavaScript/TypeScript, and full and Mern stack web development
 - 🤖 Currently learning Agentic AI: Python, LLMs, RAG, and AI agent deployment
 - 📈 150+ problems solved on LeetCode
 
